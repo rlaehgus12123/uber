@@ -1,0 +1,8 @@
+{
+  "latestVersionCode": 3,
+  "latestVersionName": "1.0.3",
+  "forceUpdate": true,
+  "restricted": false,
+  "restrictionMessage": "현재 서비스 업데이트로 인해 일시적으로 사용할 수 없습니다.",
+  "updateUrl": "https://example.com/update.apk"
+}
